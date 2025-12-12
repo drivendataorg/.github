@@ -24,11 +24,20 @@ We host a variety of open source repositories, including:
 
 ### Data science tools and frameworks
 
-- **[cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)**: A standardized yet flexible data science project template.
-- **[cloudpathlib](https://github.com/drivendata/cloudpathlib)**: `pathlib`-style interfaces for cloud storage.
-- **[deon](https://github.com/drivendata/deon)**: A CLI tool for adding ethics checklists to data science workflows.
+These are general-purpose packages designed to support data science workflows:
+
+- **[cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science)**: A standardized yet flexible data science project template.
+- **[cloudpathlib](https://github.com/drivendataorg/cloudpathlib)**: `pathlib`-style interfaces for cloud storage.
+- **[deon](https://github.com/drivendataorg/deon)**: A CLI tool for adding ethics checklists to data science workflows.
+- **[erdantic](https://github.com/drivendataorg/erdantic)**: Generate entity relationship diagrams from Python models.
+
+### Purpose-built packages
+
+These repositories were created to address specific social good challenges:
+
 - **[zamba](https://github.com/drivendata/zamba)**: A deep learning framework for wildlife camera trap image classification. 
-- **[erdantic](https://github.com/drivendata/erdantic)**: Generate entity relationship diagrams from Python models.
+- **[cyfi](https://github.com/drivendataorg/cyfi)**: A package for detecting harmful algal blooms from satellite imagery.
+- **[scipeds](https://github.com/scienceforamerica/scipeds)**: A "baked data" library for working with IPEDS data.
 
 ### 🏆 Winning Models from DrivenData Competitions
 
