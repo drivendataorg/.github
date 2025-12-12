@@ -35,7 +35,7 @@ These are general-purpose packages designed to support data science workflows:
 
 These repositories were created to address specific social good challenges:
 
-- **[zamba](https://github.com/drivendata/zamba)**: A deep learning framework for wildlife camera trap image classification. 
+- **[zamba](https://github.com/drivendataorg/zamba)**: A deep learning framework for wildlife camera trap image classification. 
 - **[cyfi](https://github.com/drivendataorg/cyfi)**: A package for detecting harmful algal blooms from satellite imagery.
 - **[scipeds](https://github.com/scienceforamerica/scipeds)**: A "baked data" library for working with IPEDS data.
 
