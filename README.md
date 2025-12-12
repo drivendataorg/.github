@@ -1,4 +1,4 @@
-[![DrivenData Logo](https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.58f94dd407ef.svg)](https://www.drivendata.org)
+<img src="https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.58f94dd407ef.svg" alt="DrivenData Logo" width="300px"/>
 
 Welcome to **DrivenData's GitHub Page**, a home for open source code in support of data science, machine learning, and AI for social good.
 
