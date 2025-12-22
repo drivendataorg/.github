@@ -2,7 +2,7 @@
 
 Welcome to **DrivenData's GitHub Page**, a home for open source code in support of data science, machine learning, and AI for social good.
 
-DrivenData runs [data science competitions](https://www.drivendata.org) and works directly with mission-driven organizations to tackle real-world challenges in areas like health, education, conservation, disaster response, and more. Our open source repositories contain tools we built and maintain as well as competition-winning models and community-driven solutions available for everyone to use, learn from, and contribute to.
+DrivenData runs [data science competitions](https://www.drivendata.org) and [works directly](https://www.drivendata.co) with mission-driven organizations to tackle real-world challenges in areas like health, education, conservation, disaster response, and more. Our open source repositories contain tools we built and maintain as well as competition-winning models and community-driven solutions available for everyone to use, learn from, and contribute to.
 
 ---
 
@@ -11,7 +11,7 @@ DrivenData runs [data science competitions](https://www.drivendata.org) and work
 DrivenData helps mission-driven organizations harness data to work smarter and deliver greater social impact. We believe in:
 
 - **Open collaboration** through accessible machine learning, AI, and data science.
-- **Sharing learning and tools** from competitions to benefit the global data community.
+- **Sharing learning and tools** from both our work and our competitions to benefit the global data community.
 - **Supporting social good**, enabling data scientists to solve problems that matter.
 
 Learn more about our work on our [website](https://www.drivendata.co).
@@ -20,7 +20,7 @@ Learn more about our work on our [website](https://www.drivendata.co).
 
 ## Explore our repositories
 
-We host a variety of open source repositories, including:
+We host a variety of open source repositories, including tools for data science workflows, purpose-built packages in specific domains, and winning models and approaches from our competitions. 
 
 ### Data science tools and frameworks
 
@@ -39,15 +39,15 @@ These repositories were created to address specific social good challenges:
 - **[cyfi](https://github.com/drivendataorg/cyfi)**: A package for detecting harmful algal blooms from satellite imagery.
 - **[scipeds](https://github.com/scienceforamerica/scipeds)**: A "baked data" library for working with IPEDS data.
 
-### 🏆 Winning Models from DrivenData Competitions
+### Winning Models from DrivenData Competitions
 
 We publish **[winning solutions](https://github.com/drivendataorg/competition-winners)** from past data science competitions under permissive licenses to support learning and reuse. These repositories collect competition submissions spanning topics such as public health, energy forecasting, natural language challenges, and more.
 
+---
+
+## Contributing
 
 Check out our contribution guidelines in individual repositories for details on how to get involved!
-
-
----
 
 ## Licensing
 
