@@ -39,7 +39,7 @@ These repositories were created to address specific social good challenges:
 - **[cyfi](https://github.com/drivendataorg/cyfi)**: A package for detecting harmful algal blooms from satellite imagery.
 - **[scipeds](https://github.com/scienceforamerica/scipeds)**: A "baked data" library for working with IPEDS data.
 
-### Winning Models from DrivenData Competitions
+### Winning models from DrivenData competitions
 
 We publish **[winning solutions](https://github.com/drivendataorg/competition-winners)** from past data science competitions under permissive licenses to support learning and reuse. These repositories collect competition submissions spanning topics such as public health, energy forecasting, natural language challenges, and more.
 
