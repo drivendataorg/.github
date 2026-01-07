@@ -24,7 +24,7 @@ We host a variety of open source repositories, including tools for data science 
 
 ### Developer tools
 
-We open source practical tools we use in our own work to support reproducible and maintainable data science workflows.
+We open source practical tools we use in our own work to support reproducible, responsible, and maintainable software.
 
 - **[cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science)**: A standardized yet flexible data science project template.
 - **[cloudpathlib](https://github.com/drivendataorg/cloudpathlib)**: `pathlib`-style interfaces for cloud storage.
@@ -33,7 +33,7 @@ We open source practical tools we use in our own work to support reproducible an
 
 ### Real-world applications
 
-We collaborate with partner organizations to build and deploy open source applications that address concrete, domain-specific social impact challenges.
+We collaborate with partner organizations to build and deliver open source applications that address domain-specific social impact challenges.
 
 - **[zamba](https://github.com/drivendataorg/zamba)**: A deep learning framework for wildlife camera trap image classification. 
 - **[cyfi](https://github.com/drivendataorg/cyfi)**: A package for detecting harmful algal blooms from satellite imagery.
