@@ -2,13 +2,14 @@
 
 Welcome to **DrivenData's GitHub Page**, a home for open source code in support of data science, machine learning, and AI for social good.
 
+## What we do
+
 DrivenData runs [data science competitions](https://www.drivendata.org) and [works directly](https://www.drivendata.co) with mission-driven organizations to tackle real-world challenges in areas like health, education, conservation, disaster response, and more. Our open source repositories contain tools we built and maintain as well as competition-winning models and community-driven solutions available for everyone to use, learn from, and contribute to.
 
----
 
-## Our mission
+## Our values
 
-DrivenData helps mission-driven organizations harness data to work smarter and deliver greater social impact. We believe in:
+We believe in:
 
 - **Open collaboration** through accessible machine learning, AI, and data science.
 - **Sharing learning and tools** from both our work and our competitions to benefit the global data community.
