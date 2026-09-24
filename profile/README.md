@@ -1,4 +1,7 @@
-<img src="https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.58f94dd407ef.svg" alt="DrivenData Logo" width="500px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://drivendata-prod-public.s3.amazonaws.com/images/logo-white.svg">
+  <img src="https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.svg" alt="DrivenData Logo" width="500px"/>
+</picture>
 
 Welcome to **DrivenData's GitHub Page**, a home for open source code in support of data science, machine learning, and AI for social good.
 
